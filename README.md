@@ -14,6 +14,11 @@ Beyond tech, I have a strong drive for **leadership**, **entrepreneurship** (Fou
 
 ---
 
+### 🎓 Academic Projects:
+> 💡 **Note:** Repositories prefixed with `FEUP-` are collaborative group projects developed for specific university courses at FEUP (e.g., LCOM, LDTS, LTW, ES), demonstrating teamwork, agile workflows, and code collaboration.
+
+---
+
 ### 📫 Connect with me:
 - **Email:** [luismbsampaio@gmail.com](mailto:luismbsampaio@gmail.com)
 - **LinkedIn:** [linkedin.com/in/luis-sampaio](https://www.linkedin.com/in/lu%C3%ADs-sampaio-84096b37a/)
